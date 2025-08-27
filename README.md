@@ -4,7 +4,7 @@ A data analysis project focused on helping **AtliQ Grands** make data-driven dec
 
 ## 📂 Project Structure
 
-### 1. Data Import
+### 1. Data Load
 - Extract and load data for analysis.
 
 ### 2. Data Exploration
@@ -17,7 +17,7 @@ A data analysis project focused on helping **AtliQ Grands** make data-driven dec
 - Data formatting and preparation for analysis.
 
 ### 5. Data Visualization
-- Create visualizations using Matplotlib for data insights.
+- Create visualizations using Matplotlib and Seaborn for data insights.
 
 ### 6. Insights Generation
 - Extract actionable insights and recommendations.
@@ -32,9 +32,9 @@ The objective is to assist **AtliQ Grands** in making data-driven decisions thro
 
 ## 🛠️ Tools & Technologies
 
-- **Pandas:** Data import, exploration, cleaning, and manipulation
+- **Pandas and NumPy:** Data import, exploration, cleaning, and manipulation
 - **Jupyter Notebook:** Coding environment and data export
-- **Matplotlib:** Data visualization
+- **Matplotlib and Seaborn:** Data visualization
 - **Python:** Programming language
 - **Pandoc:** Data converter
 
@@ -50,9 +50,9 @@ The objective is to assist **AtliQ Grands** in making data-driven decisions thro
 
 ## 🚀 Key Learnings
 
-1. **DateTime Parsing:** Using `parser.parse()` function from the `dateutil` package.
-2. **View vs. Copy in Pandas:** Understanding data frames and slicing.
-3. **Jupyter Notebook Limitations:** Addressing errors and re-running cells as needed.
+1. **DateTime Parsing:** Using different formats and dayfirst parameters.
+2. **View vs. Copy in Pandas:** Understanding data frames and indexing.
+3. **Seaborn Charts:** Plotting data labels with correct format strings
 
 ---
 
