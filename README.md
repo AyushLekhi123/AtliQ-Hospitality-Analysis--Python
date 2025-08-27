@@ -16,11 +16,10 @@ A data analysis project focused on helping **AtliQ Grands** make data-driven dec
 ### 4. Data Transformation
 - Data formatting and preparation for analysis.
 
-### 5. Data Visualization
+### 5. Insights Generation and Data Visualization
+- Extract actionable insights and recommendations.
 - Create visualizations using Matplotlib and Seaborn for data insights.
 
-### 6. Insights Generation
-- Extract actionable insights and recommendations.
 
 ---
 
