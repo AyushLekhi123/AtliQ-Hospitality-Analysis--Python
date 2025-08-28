@@ -1,9 +1,11 @@
 # 🛠️ AtliQ Hospitality Analysis- Python
 
 A data analysis project focused on helping **AtliQ Grands** make data-driven decisions through comprehensive data analysis and visualization.
+
 This is a code-free report of my analysis. It highlights approach, insights, and outcomes for quick review.
 
 🔗 **Live report:** https://ayushlekhi123.github.io/AtliQ-Hospitality-Analysis--Python/
+
 📬 **Code availability:** Full notebook available on request for interview/recruiting purposes.
 
 ## 📂 Project Structure
