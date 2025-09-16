@@ -66,5 +66,5 @@ The objective is to assist **AtliQ Grands** in making data-driven decisions thro
 Insights and recommendations have been provided in the project presentation.
 
 ## Contact
-- LinkedIn: <[link](https://www.linkedin.com/in/ayush-lekhi-148569239/)>
+- LinkedIn: <(https://www.linkedin.com/in/ayush-lekhi-148569239/)>
 - Email: <mailto:ayushrekh12065@gmail.com>
